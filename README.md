@@ -1,4 +1,5 @@
 Machine Learning Projects
+
 This repository contains various machine learning projects implemented in Python. The projects demonstrate the use of basic machine learning algorithms such as Naive Bayes, Linear Regression, and Logistic Regression. Each project is accompanied by a detailed explanation of the algorithm, the dataset used, and the results.
 
 Projects Overview
@@ -28,11 +29,6 @@ Binary classification
 Results: The model's accuracy is X% (insert result here).
 Installation
 To run the code in this repository, ensure that you have the following Python packages installed:
-
-bash
-Copy
-pip install -r requirements.txt
-The requirements.txt file includes dependencies like:
 
 numpy
 pandas
